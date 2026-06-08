@@ -1,5 +1,4 @@
 ﻿# AI Internship
-# AI Internship Projects
 
 This repository contains the Artificial Intelligence projects completed during the DecodeLabs Industrial Training Program.
 
@@ -69,6 +68,34 @@ A recommendation system that suggests relevant courses based on user interests.
 
 ## File
 AI_Recommendation_Logic.py
+
+---
+
+# Project 4: Image or Text Recognition (Basic)
+
+## Description
+A basic AI recognition system that extracts text from images using Optical Character Recognition (OCR).
+
+## Features
+- Reads text from images
+- Uses a pre-trained OCR engine
+- Processes image input
+- Displays extracted text clearly
+
+## Technologies Used
+- Python
+- OpenCV
+- PyTesseract
+- Image Processing
+
+## Skills Learned
+- Computer Vision Basics
+- OCR (Optical Character Recognition)
+- Image Preprocessing
+- AI Library Integration
+
+## File
+image_text_recognition.py
 
 ---
 
