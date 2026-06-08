@@ -1,4 +1,4 @@
-﻿# AI Internship
+# DecodeLabs AI Internship Projects
 
 This repository contains the Artificial Intelligence projects completed during the DecodeLabs Industrial Training Program.
 
