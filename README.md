@@ -126,6 +126,19 @@ A basic AI recognition system that extracts text from images using Optical Chara
 * Python Programming
 
 ---
+## Project Outputs
+
+### Project 1
+![Project 1 Output](P1_Output.png)
+
+### Project 2
+![Project 2 Output](P2_Output.png)
+
+### Project 3
+![Project 3 Output](P3_Output.png)
+
+### Project 4
+![Project 4 Output](P4_Output.png)
 
 ## Author
 
